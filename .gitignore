@@ -1,0 +1,6 @@
+student
+student.exe
+*.o
+sim/build/
+*.vpp
+*.vcd
